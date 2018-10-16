@@ -1,0 +1,27 @@
+[submodule "d01"]
+	path = d01
+	url = https://github.com/EarthSalamander42/42-Piscine-C.git
+[submodule "d02"]
+	path = d02
+	url = https://github.com/EarthSalamander42/42-Piscine-C.git
+[submodule "d03"]
+	path = d03
+	url = https://github.com/EarthSalamander42/42-Piscine-C.git
+[submodule "d04"]
+	path = d04
+	url = https://github.com/EarthSalamander42/42-Piscine-C.git
+[submodule "d05"]
+	path = d05
+	url = https://github.com/EarthSalamander42/42-Piscine-C.git
+[submodule "d06"]
+	path = d06
+	url = https://github.com/EarthSalamander42/42-Piscine-C.git
+[submodule "d07"]
+	path = d07
+	url = https://github.com/EarthSalamander42/42-Piscine-C.git
+[submodule "match_n_match"]
+	path = match_n_match
+	url = https://github.com/EarthSalamander42/42-Piscine-C.git
+[submodule "rush02"]
+	path = rush02
+	url = https://github.com/EarthSalamander42/42-Piscine-C.git
